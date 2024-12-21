@@ -1,0 +1,65 @@
+Profit & Loss Report
+==================
+
+Summary:
+--------
+Total Income: €85,230.12
+Total Expenses: €76,039.47
+Net Profit/Loss: €9,190.65
+
+Monthly Breakdown:
+----------------
+Net Profit/Loss by Month:
+Year  Month
+2024  5        14456.76
+      6         9201.02
+      7       -11822.85
+      8         -951.85
+      9        -3580.91
+      10        3365.20
+      11         217.78
+      12       -1694.50
+
+Source Analysis:
+--------------
+Net by Source:
+Source
+E-fatura     16750.95
+Montepio    126197.36
+Revolut      18321.28
+
+Transaction Types:
+---------------
+Income by Type:
+Type
+BANK_TRANSFER                                    75601.74
+TOPUP                                             8500.00
+EXCHANGE                                           681.20
+TRANSFER                                           250.00
+CARD_REFUND                                        197.18
+ATM                                                  0.00
+Alojamento, restauração e similares                  0.00
+CARD_PAYMENT                                         0.00
+FEE                                                  0.00
+Ginásios                                             0.00
+Manutenção e reparação de veículos automóveis        0.00
+Other                                                0.00
+Outros                                               0.00
+Saúde                                                0.00
+
+Expenses by Type:
+Type
+BANK_TRANSFER                                    50595.62
+Outros                                           12274.17
+CARD_PAYMENT                                      5553.18
+EXCHANGE                                          2085.23
+Other                                             1902.31
+Alojamento, restauração e similares               1486.45
+Manutenção e reparação de veículos automóveis      869.02
+ATM                                                534.49
+TRANSFER                                           500.00
+Ginásios                                           180.00
+Saúde                                               39.00
+FEE                                                 20.00
+CARD_REFUND                                          0.00
+TOPUP                                                0.00

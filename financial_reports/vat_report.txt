@@ -1,0 +1,86 @@
+VAT and Client Income Report
+==========================
+
+Yearly Summary:
+-------------
+Total Income: €65,142.30
+Total Expenses: €-76,039.47
+Total VAT Collected: €14,982.73
+Total VAT Paid: €16,455.02
+Net VAT (To Pay/Receive): €31,437.75
+Total Unique Clients: 6
+
+Quarterly Summary:
+----------------
+
+Q2:
+Total Income: €16,949.58
+VAT Collected: €3,898.40
+Total Expenses: €-7,751.97
+VAT Paid: €1,599.54
+Net VAT (To Pay/Receive): €5,497.94
+Number of Clients: 4.0
+
+Client Breakdown:
+  Mystic Protocol:
+    Income: €10,787.27
+    VAT: €2,481.07
+  Onestat:
+    Income: €738.00
+    VAT: €169.74
+  True Odysseys:
+    Income: €4,424.31
+    VAT: €1,017.59
+  Wonderbreeze:
+    Income: €1,000.00
+    VAT: €230.00
+
+Q3:
+Total Income: €19,894.49
+VAT Collected: €4,575.73
+Total Expenses: €-39,930.19
+VAT Paid: €8,533.51
+Net VAT (To Pay/Receive): €13,109.25
+Number of Clients: 5.0
+
+Client Breakdown:
+  Mystic Protocol:
+    Income: €11,591.95
+    VAT: €2,666.15
+  Onestat:
+    Income: €1,107.00
+    VAT: €254.61
+  Poltapp:
+    Income: €246.00
+    VAT: €56.58
+  True Odysseys:
+    Income: €2,949.54
+    VAT: €678.39
+  Wonderbreeze:
+    Income: €4,000.00
+    VAT: €920.00
+
+Q4:
+Total Income: €28,298.23
+VAT Collected: €6,508.59
+Total Expenses: €-28,357.31
+VAT Paid: €6,321.97
+Net VAT (To Pay/Receive): €12,830.56
+Number of Clients: 5.0
+
+Client Breakdown:
+  Luis Marcal:
+    Income: €123.00
+    VAT: €28.29
+  Mystic Protocol:
+    Income: €19,512.92
+    VAT: €4,487.97
+  Onestat:
+    Income: €738.00
+    VAT: €169.74
+  True Odysseys:
+    Income: €4,424.31
+    VAT: €1,017.59
+  Wonderbreeze:
+    Income: €3,500.00
+    VAT: €805.00

@@ -218,8 +218,30 @@ def load_efatura_transactions(file_path):
         df['IVA'] = df['IVA'].apply(convert_amount)
         df['Base Tributável'] = df['Base Tributável'].apply(convert_amount)
         
-        # Convert date
-        df['Data Emissão'] = pd.to_datetime(df['Data Emissão'])
+        # Convert date with flexible format handling
+        def parse_date(date_str):
+            try:
+                # Try ISO format first (YYYY-MM-DD)
+                return pd.to_datetime(date_str, format='%Y-%m-%d')
+            except:
+                try:
+                    # Try Portuguese format (DD/MM/YY)
+                    return pd.to_datetime(date_str, format='%d/%m/%y')
+                except:
+                    try:
+                        # Try Portuguese format with full year (DD/MM/YYYY)
+                        return pd.to_datetime(date_str, format='%d/%m/%Y')
+                    except:
+                        print(f"Warning: Could not parse date: {date_str}")
+                        return None
+
+        df['Data Emissão'] = df['Data Emissão'].apply(parse_date)
+        
+        # Remove rows with invalid dates
+        invalid_dates = df['Data Emissão'].isna()
+        if invalid_dates.any():
+            print(f"Warning: Removing {invalid_dates.sum()} transactions with invalid dates")
+            df = df[~invalid_dates]
         
         # Filter out canceled documents
         df = df[df['Situação'] != 'Documento Anulado pelo Emitente']

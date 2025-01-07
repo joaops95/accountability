@@ -4,8 +4,8 @@ Profit & Loss Report
 Summary:
 --------
 Total Income: €85,230.12
-Total Expenses: €76,039.47
-Net Profit/Loss: €9,190.65
+Total Expenses: €77,292.98
+Net Profit/Loss: €7,937.14
 
 Monthly Breakdown:
 ----------------
@@ -18,15 +18,15 @@ Year  Month
       9        -3580.91
       10        3365.20
       11         217.78
-      12       -1694.50
+      12       -2948.01
 
 Source Analysis:
 --------------
 Net by Source:
 Source
-E-fatura     16750.95
-Montepio    126197.36
-Revolut      18321.28
+E-fatura     18028.06
+Montepio    126136.39
+Revolut      18358.65
 
 Transaction Types:
 ---------------
@@ -49,17 +49,17 @@ Saúde                                                0.00
 
 Expenses by Type:
 Type
-BANK_TRANSFER                                    50595.62
-Outros                                           12274.17
-CARD_PAYMENT                                      5553.18
+BANK_TRANSFER                                    50534.65
+Outros                                           13377.11
+CARD_PAYMENT                                      5580.55
 EXCHANGE                                          2085.23
-Other                                             1902.31
-Alojamento, restauração e similares               1486.45
+Other                                             2008.48
+Alojamento, restauração e similares               1554.45
 Manutenção e reparação de veículos automóveis      869.02
 ATM                                                534.49
 TRANSFER                                           500.00
 Ginásios                                           180.00
 Saúde                                               39.00
-FEE                                                 20.00
+FEE                                                 30.00
 CARD_REFUND                                          0.00
 TOPUP                                                0.00

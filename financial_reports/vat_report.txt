@@ -4,10 +4,10 @@ VAT and Client Income Report
 Yearly Summary:
 -------------
 Total Income: €65,142.30
-Total Expenses: €-76,039.47
+Total Expenses: €-77,292.98
 Total VAT Collected: €14,982.73
-Total VAT Paid: €16,455.02
-Net VAT (To Pay/Receive): €31,437.75
+Total VAT Paid: €16,677.42
+Net VAT (To Pay/Receive): €31,660.15
 Total Unique Clients: 6
 
 Quarterly Summary:
@@ -63,9 +63,9 @@ Client Breakdown:
 Q4:
 Total Income: €28,298.23
 VAT Collected: €6,508.59
-Total Expenses: €-28,357.31
-VAT Paid: €6,321.97
-Net VAT (To Pay/Receive): €12,830.56
+Total Expenses: €-29,610.82
+VAT Paid: €6,544.37
+Net VAT (To Pay/Receive): €13,052.96
 Number of Clients: 5.0
 
 Client Breakdown:
